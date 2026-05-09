@@ -1,5 +1,6 @@
 # Numerical Analysis 2025
-This repository contains my homework assignments for the Numerical Analysis course (数値解析) during the first semester of 2025. (Grade 91/100)
+This repository contains my homework assignments for the Numerical Analysis course (数値解析) during the first semester of 2025. (Grade 91/100) \
+I uploaded the reports written in Japanese along with code files, output files, and result visualization images. The cover pages and instruction pages were removed due to privacy and copyright concerns.
 
 ## Language and Tools
 I was instructed to use C and gnuplot for this course. However, I used Python for homework 2 due to issues with my IDE.
