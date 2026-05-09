@@ -3,7 +3,7 @@ This repository contains my homework assignments for the Numerical Analysis cour
 
 ## Language and Tools
 I was instructed to use C and gnuplot for this course. However, I used Python for homework 2 due to issues with my IDE.
-All programs ran on Windows 10.
+All programs were executed on on Windows 10.
 
 ## Contents
 **Homework 1** 
